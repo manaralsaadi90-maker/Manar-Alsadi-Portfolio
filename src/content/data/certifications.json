@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Digital Marketing",
+    "issuer": "HubSpot Academy",
+    "date": "2026-02",
+    "image": "/images/certifications/hubspot-digital-marketing.jpg",
+    "credentialUrl": "https://app-eu1.hubspot.com/academy/achievements/vltdc7xq/en/1/manar-alsadi/digital-marketing"
+  },
+  {
+    "title": "Social Media Marketing",
+    "issuer": "HubSpot Academy",
+    "date": "2026-04",
+    "image": "/images/certifications/hubspot-social-media.jpg",
+    "credentialUrl": "https://app-eu1.hubspot.com/academy/achievements/y04fstvd/en/1/manar-alsadi/social-media-marketing"
+  },
+  {
+    "title": "Content Marketing",
+    "issuer": "HubSpot Academy",
+    "date": "2026-03",
+    "image": "/images/certifications/hubspot-content-marketing.jpg",
+    "credentialUrl": "https://app-eu1.hubspot.com/academy/achievements/rpn4wlg5/en/1/manar-alsadi/content-marketing"
+  },
+  {
+    "title": "Digital Advertising",
+    "issuer": "HubSpot Academy",
+    "date": "2026-03",
+    "image": "/images/certifications/hubspot-digital-advertising.jpg",
+    "credentialUrl": "https://app-eu1.hubspot.com/academy/achievements/4k42qfml/en/1/manar-alsadi/digital-advertising"
+  },
+  {
+    "title": "Introduction to Social Media Marketing",
+    "issuer": "Meta (via Coursera)",
+    "date": "2022-01",
+    "image": "/images/certifications/meta-social-media-marketing.jpg",
+    "credentialUrl": "https://coursera.org/verify/64X8KKBCKNKT"
+  },
+  {
+    "title": "Introduction to Google SEO",
+    "issuer": "University of California, Davis (via Coursera)",
+    "date": "2024-12",
+    "image": "/images/certifications/ucdavis-google-seo.jpg",
+    "credentialUrl": "https://coursera.org/verify/B594AMHVT0PP"
+  },
+  {
+    "title": "Google Analytics (24-hour Training)",
+    "issuer": "RiserHub",
+    "date": "2024-02",
+    "image": "/images/certifications/riserhub-google-analytics.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Think Agile",
+    "issuer": "Syriatel Mobile Telecom",
+    "date": "2024-03",
+    "image": "/images/certifications/syriatel-think-agile.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Intermediate Excel",
+    "issuer": "Syriatel Mobile Telecom",
+    "date": "2017-11",
+    "image": "/images/certifications/syriatel-intermediate-excel.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Interactive Communication",
+    "issuer": "Syriatel Mobile Telecom",
+    "date": "2016-12",
+    "image": "/images/certifications/syriatel-interactive-communication.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Stress Management",
+    "issuer": "Syriatel Mobile Telecom",
+    "date": "2018-02",
+    "image": "/images/certifications/syriatel-stress-management.jpg",
+    "credentialUrl": ""
+  }
+]

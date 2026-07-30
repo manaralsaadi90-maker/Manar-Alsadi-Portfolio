@@ -1,0 +1,82 @@
+[
+  {
+    "company": "Syriatel Mobile Telecom",
+    "role": "Product Management Specialist",
+    "location": "Damascus, Syria",
+    "start": "2018-03",
+    "end": "2024-08",
+    "summary": "Managed a portfolio of B2B products and telecom services for corporate and enterprise clients, including corporate VPN lines, Bulk SMS and other business telecom services, and led the Syriatel Cash mobile e-wallet as a two-year product initiative.",
+    "achievements": [
+      "Owned a range of B2B telecom products end-to-end, coordinating external partners with internal Marketing, IT and engineering teams until each service went live.",
+      "Tracked transactions, adoption and revenue via BI dashboards, pulling raw data from the MIS team and analysing it in advanced Excel to build reports and recommendations for management.",
+      "Developed B2B partnerships and B2C promotional campaigns, balancing corporate deals with consumer growth.",
+      "For Syriatel Cash, drove adoption in a cash-heavy market and expanded the wallet's services and partners over two years."
+    ],
+    "technologies": [
+      "Product Management",
+      "B2B Telecom (VPN, Bulk SMS)",
+      "Fintech / E-Payment",
+      "Data Analysis",
+      "BI Dashboards",
+      "Advanced Excel",
+      "Stakeholder Reporting"
+    ]
+  },
+  {
+    "company": "Syriatel Mobile Telecom",
+    "role": "Customer Success & Reporting Specialist",
+    "location": "Damascus, Syria",
+    "start": "2016-04",
+    "end": "2018-02",
+    "summary": "Back-office specialist bridging customers, products and internal teams, resolving escalated complaints, monitoring product performance and reporting service KPIs to management.",
+    "achievements": [
+      "Investigated escalated customer complaints and coordinated with Marketing, IT and external partners to resolve issues and process refunds.",
+      "Monitored the performance of new products through customer feedback and complaint patterns, flagging recurring issues for fixes.",
+      "Quality-checked front-line representatives' transactions and followed up to correct errors.",
+      "Produced performance reports for Marketing, management, shareholders and the CEO."
+    ],
+    "technologies": [
+      "Reporting & Analysis",
+      "Customer Experience",
+      "Quality Assurance",
+      "KPIs",
+      "Cross-functional Coordination"
+    ]
+  },
+  {
+    "company": "Syriatel Mobile Telecom",
+    "role": "Customer Service Representative",
+    "location": "Damascus, Syria",
+    "start": "2013-03",
+    "end": "2016-03",
+    "summary": "Front-line customer role across the call centre and points of sale, one year handling inbound support, then two years as a POS sales representative in the company's main centres.",
+    "achievements": [
+      "Handled inbound customer calls: answered questions, resolved problems and registered complaints.",
+      "As a POS representative, sold lines and services and supported customers face-to-face in flagship centres.",
+      "Built the customer-facing foundation that later informed my product and reporting work."
+    ],
+    "technologies": [
+      "Customer Service",
+      "Point of Sale",
+      "Sales Support",
+      "Communication"
+    ]
+  },
+  {
+    "company": "Lavazza Group",
+    "role": "Customer Service Representative",
+    "location": "Damascus, Syria",
+    "start": "2010-01",
+    "end": "2012-12",
+    "summary": "Early-career customer service role with an internationally recognised brand, answering inquiries, resolving issues, processing transactions and supporting sales.",
+    "achievements": [
+      "Answered customer inquiries and resolved issues, processing transactions accurately.",
+      "Provided product information and supported upselling and cross-selling."
+    ],
+    "technologies": [
+      "Customer Service",
+      "International Sales",
+      "Customer Experience"
+    ]
+  }
+]

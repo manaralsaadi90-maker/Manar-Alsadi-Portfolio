@@ -1,0 +1,10 @@
+[
+  { "src": "/images/photography/photo-01.jpg", "alt": "Architecture study, lines and light", "category": "Architecture", "width": 1200, "height": 1600 },
+  { "src": "/images/photography/photo-02.jpg", "alt": "Street scene in the Netherlands", "category": "Street", "width": 1600, "height": 1067 },
+  { "src": "/images/photography/photo-03.jpg", "alt": "Minimal still life composition", "category": "Still Life", "width": 1200, "height": 1200 },
+  { "src": "/images/photography/photo-04.jpg", "alt": "Portrait in natural light", "category": "Portrait", "width": 1200, "height": 1500 },
+  { "src": "/images/photography/photo-05.jpg", "alt": "Landscape at golden hour", "category": "Landscape", "width": 1600, "height": 1067 },
+  { "src": "/images/photography/photo-06.jpg", "alt": "Detail texture study", "category": "Still Life", "width": 1200, "height": 1600 },
+  { "src": "/images/photography/photo-07.jpg", "alt": "Urban geometry", "category": "Architecture", "width": 1600, "height": 1067 },
+  { "src": "/images/photography/photo-08.jpg", "alt": "Candid street portrait", "category": "Street", "width": 1200, "height": 1500 }
+]

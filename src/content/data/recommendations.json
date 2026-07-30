@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Loujain AlHasan",
+    "position": "Manager (Business Solutions & Product Marketing)",
+    "company": "Syriatel Mobile Telecom",
+    "image": "/images/recommendations/loujain-alhasan.png",
+    "quote": "A highly intelligent, data-driven professional with outstanding skills in market analysis and strategic thinking. His ability to turn insights into actionable product and marketing ideas led to a remarkable 45% increase in product revenue.",
+    "relationship": "Managed Manar directly, Product Management"
+  },
+  {
+    "name": "Khaldoun Nasser",
+    "position": "Manager",
+    "company": "Syriatel Mobile Telecom",
+    "image": "/images/recommendations/khaldoun-nasser.png",
+    "quote": "His analytical thinking, structured approach to problem-solving, and exceptional reporting skills consistently provided our team with actionable insights and data-driven decisions. A trusted go-to person for performance analysis and reporting.",
+    "relationship": "Managed Manar directly"
+  },
+  {
+    "name": "Nadia Halaki",
+    "position": "Credit & Collection Manager",
+    "company": "Syriatel Mobile Telecom",
+    "image": "/images/recommendations/nadia-halaki.png",
+    "quote": "He monitored key metrics, addressed issues early, and provided valuable insights through detailed analysis and reporting. His efforts directly contributed to reducing churn and increasing upsell opportunities.",
+    "relationship": "Managed Manar directly, Customer Success"
+  },
+  {
+    "name": "Beau Schuur",
+    "position": "Integration Mentor",
+    "company": "VluchtelingenWerk Nederland",
+    "image": "/images/recommendations/beau-schuur.png",
+    "quote": "Vanaf onze eerste ontmoeting was het duidelijk dat Manar een gemotiveerde en getalenteerde professional is, leergierig van aard en iemand die graag zijn steentje bij wil dragen in de samenleving.",
+    "relationship": "Was Manar's mentor (integration in the Netherlands)"
+  },
+  {
+    "name": "Samar Alhalabi",
+    "position": "Former HR Director",
+    "company": "Syriatel Mobile Telecom",
+    "image": "/images/recommendations/samar-alhalabi.png",
+    "quote": "He was known for his professionalism, strong communication, and positive presence across teams. I wish him continued success in his career journey.",
+    "relationship": "Senior colleague (did not manage directly)"
+  },
+  {
+    "name": "Yehia Akhlaki",
+    "position": "Manager",
+    "company": "Syriatel Mobile Telecom",
+    "image": "/images/recommendations/yehia-akhlaki-correct.png",
+    "quote": "A highly skilled and dedicated professional. He handled client inquiries with patience, professionalism, and a solutions-oriented approach, a reliable team player with real attention to detail.",
+    "relationship": "Managed Manar directly, Point of Sale"
+  }
+]

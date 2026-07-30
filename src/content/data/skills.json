@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Analysis & Reporting (core)",
+    "items": [
+      { "name": "Business & Data Analysis", "level": 90 },
+      { "name": "Reporting & Recommendations", "level": 90 },
+      { "name": "Advanced Excel", "level": 88 },
+      { "name": "Power BI / BI Dashboards", "level": 78 },
+      { "name": "KPI & Performance Monitoring", "level": 85 },
+      { "name": "Data Visualization", "level": 80 }
+    ]
+  },
+  {
+    "category": "Product & Commercial",
+    "items": [
+      { "name": "Product Management", "level": 85 },
+      { "name": "Product Marketing", "level": 82 },
+      { "name": "B2B & B2C", "level": 85 },
+      { "name": "Market & Consumer Research", "level": 82 },
+      { "name": "Customer Experience", "level": 88 },
+      { "name": "Strategic & Systems Thinking", "level": 78 }
+    ]
+  },
+  {
+    "category": "Digital, UX & Web",
+    "items": [
+      { "name": "UX Research & Usability Testing", "level": 74 },
+      { "name": "Figma", "level": 75 },
+      { "name": "HTML / CSS / JavaScript", "level": 70 },
+      { "name": "WordPress + Breakdance", "level": 80 },
+      { "name": "Data Viz (Chart.js / Three.js)", "level": 68 },
+      { "name": "SEO & Google Analytics", "level": 72 }
+    ]
+  },
+  {
+    "category": "AI & Tools",
+    "items": [
+      { "name": "AI-Assisted Build & Content", "level": 85 },
+      { "name": "Prompt Engineering", "level": 82 },
+      { "name": "Adobe (InDesign, Photoshop)", "level": 72 },
+      { "name": "Canva", "level": 88 },
+      { "name": "HubSpot", "level": 72 },
+      { "name": "Microsoft Office", "level": 92 }
+    ]
+  }
+]

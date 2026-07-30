@@ -1,0 +1,573 @@
+[
+  {
+    "slug": "syriatel-cash",
+    "title": "Syriatel Cash, Scaling a Mobile E-Wallet",
+    "category": "Product Management · Fintech",
+    "year": "2023-2024",
+    "role": "Product Management Specialist",
+    "summary": "A two-year product initiative within my wider B2B role at Syriatel: driving adoption of a mobile e-wallet in a cash-heavy market and expanding its services and partners.",
+    "cover": "/images/projects/syriatel-cash-cover.jpg",
+    "featured": true,
+    "academic": false,
+    "tags": [
+      "Fintech",
+      "Product Management",
+      "B2B & B2C",
+      "Data & Reporting"
+    ],
+    "tools": [
+      "BI Dashboards",
+      "Advanced Excel",
+      "PowerPoint",
+      "CRM"
+    ],
+    "metrics": [
+      {
+        "label": "Duration",
+        "value": "2 yrs"
+      },
+      {
+        "label": "Model",
+        "value": "B2B + B2C"
+      },
+      {
+        "label": "Domain",
+        "value": "E-payments"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "official": "https://www.syriatel.sy/services/syriatel-cash"
+    },
+    "group": "work"
+  },
+  {
+    "slug": "ai-nutrition-coach",
+    "title": "Upfront AI Nutrition Coach",
+    "category": "AI Product · Marketing",
+    "year": "2026",
+    "role": "Sole creator & product owner (AI-assisted build)",
+    "summary": "An AI-powered personalized marketing tool that replaces a static webshop with a guided journey, calculating protein/calorie targets and recommending products, with an AI chatbot and an AR brand filter.",
+    "cover": "/images/projects/ai-nutrition-coach-cover.jpg",
+    "featured": true,
+    "academic": false,
+    "tags": [
+      "AI",
+      "Marketing Funnel",
+      "UX/UI",
+      "Front-end"
+    ],
+    "tools": [
+      "JavaScript",
+      "OpenAI/Claude API",
+      "Flowise",
+      "Lens Studio (AR)",
+      "Figma",
+      "GitHub"
+    ],
+    "metrics": [
+      {
+        "label": "Products modelled",
+        "value": "57"
+      },
+      {
+        "label": "Prototypes",
+        "value": "3"
+      },
+      {
+        "label": "Logged hours",
+        "value": "57"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://manaralsaadi90-maker.github.io/upfront-Ai-coach/",
+      "extra": [
+        {
+          "label": "GSAP banner & landing page",
+          "href": "https://manaralsaadi90-maker.github.io/Upfront-GSP-Banner-LandingPage/"
+        }
+      ]
+    },
+    "group": "university",
+    "videos": [
+      {
+        "label": "MVP demo, the AI coach responding",
+        "youtube": "VNDcsd5_TFM"
+      }
+    ]
+  },
+  {
+    "slug": "nutrition-data-dashboard",
+    "title": "Interactive Data-Visualization Dashboard",
+    "category": "Data Visualization",
+    "year": "2026",
+    "role": "Data Visualization & Front-end (Student Project)",
+    "summary": "An interactive dashboard that turns product-nutrition data into clear, engaging comparisons, with dynamic charts, a 3D visualization, and real-life food comparisons.",
+    "cover": "/images/projects/nutrition-data-dashboard-cover.jpg",
+    "featured": true,
+    "academic": false,
+    "tags": [
+      "Data Viz",
+      "Chart.js",
+      "Three.js",
+      "Front-end"
+    ],
+    "tools": [
+      "HTML/CSS/JS",
+      "Chart.js",
+      "Three.js",
+      "Excel",
+      "Cursor AI"
+    ],
+    "metrics": [
+      {
+        "label": "Charts",
+        "value": "Dynamic"
+      },
+      {
+        "label": "Dimension",
+        "value": "3D viz"
+      },
+      {
+        "label": "Shown at",
+        "value": "Expo"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://manaralsaadi90-maker.github.io/upfront-dashboard/"
+    },
+    "group": "university"
+  },
+  {
+    "slug": "voyanah-travel-ux",
+    "title": "Voyanah, UX-Driven Travel Website",
+    "category": "UX / Web",
+    "year": "2025",
+    "role": "UX & Digital Marketing Lead (Student Project)",
+    "summary": "A user-centered travel site helping students discover and compare affordable group trips, from card-sorting and wireframes to a fully built, usability-tested WordPress site.",
+    "cover": "/images/projects/voyanah-travel-ux-cover.jpg",
+    "featured": true,
+    "academic": false,
+    "tags": [
+      "UX Research",
+      "Usability Testing",
+      "WordPress",
+      "Live"
+    ],
+    "tools": [
+      "Figma",
+      "WordPress",
+      "Breakdance"
+    ],
+    "metrics": [
+      {
+        "label": "Status",
+        "value": "Live"
+      },
+      {
+        "label": "Method",
+        "value": "Card sort"
+      },
+      {
+        "label": "Responsive",
+        "value": "Yes"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://www.voyanah.com/"
+    },
+    "group": "university"
+  },
+  {
+    "slug": "portfolio-website",
+    "title": "This Portfolio, A Custom-Built Website",
+    "category": "Web / Product",
+    "year": "2026",
+    "role": "Product owner, designer & content strategist (AI-assisted build)",
+    "summary": "The site you're on, conceived, designed and directed by me and built with a modern stack. Content-driven, animated, accessible, SEO-complete, and updatable without touching code.",
+    "cover": "/images/projects/portfolio-website-cover.jpg",
+    "featured": true,
+    "academic": false,
+    "tags": [
+      "Next.js",
+      "Product Thinking",
+      "Design",
+      "SEO"
+    ],
+    "tools": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Framer Motion",
+      "MDX"
+    ],
+    "metrics": [
+      {
+        "label": "Stack",
+        "value": "Next.js"
+      },
+      {
+        "label": "Content",
+        "value": "JSON/MDX"
+      },
+      {
+        "label": "A11y",
+        "value": "AA"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "github": ""
+    },
+    "group": "personal"
+  },
+  {
+    "slug": "mission-m-innovation",
+    "title": "Mission M, Product Innovation for M&M's",
+    "category": "Consumer Research · Innovation",
+    "year": "2025",
+    "role": "Research Lead & Concept Developer (Student Project)",
+    "summary": "A consumer-research-driven innovation concept turning M&M's into a social board-game experience, 100+ ideas generated, validated through surveys and prototype testing. Graded 10/10.",
+    "cover": "/images/projects/mission-m-innovation-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Consumer Research",
+      "Surveys",
+      "Validation",
+      "VPC"
+    ],
+    "tools": [
+      "Google Forms",
+      "Excel",
+      "AI Tools",
+      "PowerPoint"
+    ],
+    "metrics": [
+      {
+        "label": "Grade",
+        "value": "10/10"
+      },
+      {
+        "label": "Ideas generated",
+        "value": "100+"
+      }
+    ],
+    "gallery": [
+      "/images/projects/mission-m-innovation-1.jpg",
+      "/images/projects/mission-m-innovation-2.jpg",
+      "/images/projects/mission-m-innovation-3.jpg"
+    ],
+    "links": {},
+    "group": "university",
+    "downloads": [
+      {
+        "label": "Full report (PDF)",
+        "file": "/documents/mission-m-report.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "upfront-360-marketing",
+    "title": "360° Digital Marketing Strategy, Upfront",
+    "category": "Marketing Strategy",
+    "year": "2026",
+    "role": "Marketing Strategist (Student Project)",
+    "summary": "A data-informed, cross-media marketing strategy for a protein-bar brand targeting students, built on DESTEP, AIDA/STDC, competitor benchmarking and a KPI framework, with AI-made ad creative.",
+    "cover": "/images/projects/upfront-360-marketing-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Strategy",
+      "DESTEP",
+      "Customer Journey",
+      "Social"
+    ],
+    "tools": [
+      "Canva/Adobe",
+      "AI Video (Sora)",
+      "Statista",
+      "PowerPoint"
+    ],
+    "metrics": [
+      {
+        "label": "Framework",
+        "value": "360°"
+      },
+      {
+        "label": "Channels",
+        "value": "On + offline"
+      }
+    ],
+    "gallery": [],
+    "links": {},
+    "group": "university",
+    "downloads": [
+      {
+        "label": "360 strategy report (PDF)",
+        "file": "/documents/upfront-360-report.pdf"
+      },
+      {
+        "label": "Expo poster (PDF)",
+        "file": "/documents/upfront-360-poster.pdf"
+      }
+    ],
+    "videos": [
+      {
+        "label": "AI ad sample 1",
+        "youtube": "QXvBVKOZ8y4"
+      },
+      {
+        "label": "AI ad sample 2",
+        "youtube": "nNOMBdSQ3i8"
+      },
+      {
+        "label": "AI ad sample 3",
+        "youtube": "RcornyPbHLw"
+      },
+      {
+        "label": "AI ad sample 4",
+        "youtube": "-3tw5oUop6M"
+      }
+    ]
+  },
+  {
+    "slug": "adidas-brand-book",
+    "title": "Adidas Brand Book, Visual Communication",
+    "category": "Brand & Design",
+    "year": "2024",
+    "role": "Design & Visual Communication Lead (Student Project)",
+    "summary": "A 12-spread brand book translating Adidas's identity into cohesive visual storytelling, built end-to-end in InDesign and prepared for professional print.",
+    "cover": "/images/projects/adidas-brand-book-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Branding",
+      "InDesign",
+      "Storytelling",
+      "Print"
+    ],
+    "tools": [
+      "Adobe InDesign",
+      "Photoshop",
+      "AI Image Tools",
+      "Figma"
+    ],
+    "metrics": [
+      {
+        "label": "Spreads",
+        "value": "12"
+      },
+      {
+        "label": "Output",
+        "value": "Print-ready"
+      }
+    ],
+    "gallery": [
+      "/images/projects/adidas-brand-book-1.jpg",
+      "/images/projects/adidas-brand-book-2.jpg",
+      "/images/projects/adidas-brand-book-3.jpg",
+      "/images/projects/adidas-brand-book-4.jpg"
+    ],
+    "links": {},
+    "group": "university",
+    "downloads": [
+      {
+        "label": "Brand book spreads (PDF)",
+        "file": "/documents/adidas-brand-book-spreads.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "emergency-drone-robot",
+    "title": "Emergency Drone Robot for Healthcare",
+    "category": "Innovation · Research",
+    "year": "2025",
+    "role": "Research Lead & Concept Developer (Student Project)",
+    "summary": "A healthcare-innovation concept using drone + AI diagnostics to speed emergency response, validated with healthcare professionals and analysed for long-term societal and ethical impact.",
+    "cover": "/images/projects/emergency-drone-robot-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Innovation",
+      "Research",
+      "AI",
+      "Foresight"
+    ],
+    "tools": [
+      "AI Tools",
+      "Futures Wheel",
+      "Interviews",
+      "PowerPoint"
+    ],
+    "metrics": [
+      {
+        "label": "Method",
+        "value": "Validated"
+      },
+      {
+        "label": "Lens",
+        "value": "Ethics + Wet BIG"
+      }
+    ],
+    "gallery": [],
+    "links": {},
+    "group": "university"
+  },
+  {
+    "slug": "systems-thinking-b2b",
+    "title": "Systems Thinking & B2B Consulting Prep",
+    "category": "Strategy · Consulting",
+    "year": "2026",
+    "role": "Researcher & Strategic Analyst (Student Project)",
+    "summary": "A strategic-consulting exercise analysing a consumer brand as a market system (Iceberg Model, Causal Loops), mapping the Decision-Making Unit and building a B2B outreach toolkit with SPIN questions.",
+    "cover": "/images/projects/systems-thinking-b2b-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Systems Thinking",
+      "B2B",
+      "DMU",
+      "SPIN"
+    ],
+    "tools": [
+      "LinkedIn",
+      "Excel",
+      "APA Research",
+      "Diagramming"
+    ],
+    "metrics": [
+      {
+        "label": "Models",
+        "value": "Iceberg + CLD"
+      },
+      {
+        "label": "Output",
+        "value": "Outreach toolkit"
+      }
+    ],
+    "gallery": [],
+    "links": {},
+    "group": "university",
+    "downloads": [
+      {
+        "label": "Full report (PDF)",
+        "file": "/documents/systems-thinking-report.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "neuromarketing-tutor",
+    "title": "Neuromarketing Interactive Study Tutor",
+    "category": "Self-Initiated · Web",
+    "year": "2026",
+    "role": "Product owner & builder (AI-assisted)",
+    "summary": "A self-built, mobile-friendly study app covering six Neuromarketing lectures, summaries, flashcards, quizzes and a full mock-exam mode. Live on GitHub Pages.",
+    "cover": "/images/projects/neuromarketing-tutor-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Self-Initiated",
+      "HTML/JS",
+      "AI-Assisted",
+      "Live"
+    ],
+    "tools": [
+      "HTML/CSS/JS",
+      "Claude AI",
+      "GitHub Pages"
+    ],
+    "metrics": [
+      {
+        "label": "Lectures",
+        "value": "6"
+      },
+      {
+        "label": "Status",
+        "value": "Live"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://manaralsaadi90-maker.github.io/Neuromarketing_tutor/"
+    },
+    "group": "personal"
+  },
+  {
+    "slug": "sustainable-economics-tutor",
+    "title": "Sustainable Economy Tutor",
+    "category": "Self-Initiated · Web",
+    "year": "2025",
+    "role": "Product owner & quality reviewer (AI-assisted)",
+    "summary": "A self-contained study tool turning a full Sustainable Economics course into plain-English explanations, a glossary, flashcards and a 39-question mock-quiz engine, with rigorous fact-checking of every draft.",
+    "cover": "/images/projects/sustainable-economics-tutor-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Self-Initiated",
+      "Fact-checking",
+      "AI-Assisted",
+      "HTML/JS"
+    ],
+    "tools": [
+      "HTML/CSS/JS",
+      "Claude AI"
+    ],
+    "metrics": [
+      {
+        "label": "Quiz items",
+        "value": "39"
+      },
+      {
+        "label": "Glossary",
+        "value": "30 terms"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://manaralsaadi90-maker.github.io/sustainable-economics-tutor/"
+    },
+    "group": "personal"
+  },
+  {
+    "slug": "dutch-vocabulary-trainer",
+    "title": "Dutch Vocabulary Trainer (NT2 B1)",
+    "category": "Self-Initiated · Web",
+    "year": "2026",
+    "role": "Product owner & builder (AI-assisted)",
+    "summary": "A personal, offline-first trainer for the full official A2+B1 Dutch vocabulary, 3,409 words in Dutch/English/Arabic with example sentences, 764 verb conjugations, and browser pronunciation.",
+    "cover": "/images/projects/dutch-vocabulary-trainer-cover.jpg",
+    "featured": false,
+    "academic": true,
+    "tags": [
+      "Self-Initiated",
+      "Language",
+      "Offline-first",
+      "HTML/JS"
+    ],
+    "tools": [
+      "HTML/CSS/JS",
+      "LocalStorage",
+      "Web Speech API",
+      "Python"
+    ],
+    "metrics": [
+      {
+        "label": "Words",
+        "value": "3,409"
+      },
+      {
+        "label": "Conjugations",
+        "value": "764"
+      }
+    ],
+    "gallery": [],
+    "links": {
+      "live": "https://manaralsaadi90-maker.github.io/Dutch-Words-Trainer/"
+    },
+    "group": "personal"
+  }
+]
