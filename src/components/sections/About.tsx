@@ -12,7 +12,7 @@ export function About() {
       <div className="container">
         <SectionHeading
           eyebrow="About"
-          title="From Damascus to Eindhoven."
+          title="From Damascus to the Netherlands."
           lead="A career built across countries, languages and industries, driven by curiosity and resilience."
         />
 
