@@ -11,9 +11,9 @@ export const site = {
   // Longer hero subheadline shown under the animated headline.
   heroSubline:
     "Product Marketing & Business Analyst, MBA, 11 years across B2B & B2C. I connect data, customers and strategy, and I'm sharpening digital & UX skills at Fontys.",
-  location: 'Eindhoven, Netherlands',
+  location: 'Huizen (near Almere), Netherlands',
   // Where the person is open to working (shown in Contact).
-  openTo: 'Open to roles in Eindhoven, Amsterdam & Rotterdam, and remote across the Netherlands.',
+  openTo: 'Open to roles in Amsterdam, Almere, Huizen, Hilversum and Amersfoort, and remote across the Netherlands.',
   email: 'manar.alsaadi90@gmail.com',
   // Update this to your live domain before deploying.
   url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://manaralsadi.com',
