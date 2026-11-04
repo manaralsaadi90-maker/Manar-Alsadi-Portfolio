@@ -1,5 +1,21 @@
 [
   {
+    "name": "Mitchel van de Water",
+    "position": "Lecturer, Digital Business Concepts",
+    "company": "Fontys University of Applied Sciences",
+    "image": "/images/recommendations/rec-mitchel-van-de-water.png",
+    "quote": "Manar is a curious, smart and eager student that excels at technical digital tools. He has experience with code, design, technical planning and budgeting. It's been a pleasure to have him as a student.",
+    "relationship": "Was Manar's teacher at Fontys"
+  },
+  {
+    "name": "Lotte van Oosterhout",
+    "position": "Concept & Design Teacher",
+    "company": "Fontys University of Applied Sciences",
+    "image": "/images/recommendations/rec-lotte-van-oosterhout.png",
+    "quote": "It has been a pleasure to guide Manar during his studies. He approaches every project with a proactive, professional mindset, always asking the right questions and sharpening his skills. His communication is clear, structured and articulate, and he consistently delivers beyond expectations. Manar will be an outstanding asset to any team he joins.",
+    "relationship": "Was Manar's teacher at Fontys"
+  },
+  {
     "name": "Loujain AlHasan",
     "position": "Manager (Business Solutions & Product Marketing)",
     "company": "Syriatel Mobile Telecom",
